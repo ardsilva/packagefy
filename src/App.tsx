@@ -7,12 +7,6 @@ import FreeSolo from './FreeSolo';
 class App extends Component {
 
   render() {
-
-    fetch("https://api.npms.io/v2/search/suggestions?q=react")
-      .then(res => res.json())
-      .then(res => console.log(res));
-
-
     return (
       <div className="App">
         <header className="App-header">
