@@ -39,6 +39,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ## To Be Developed
 
 - more tests with jest
-- apply concurrently (npm install concurrently
+- apply concurrently (npm install -g concurrently)
 
 # packagefy
