@@ -4,6 +4,6 @@ import App from '../containers/App';
 
 test('renders learn react link', () => {
   const { getByText } = render(<App />);
-  const linkElement = getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  const msg = getByText(/PACKAGEFY ANALYZER/i);
+  expect(msg).toBeInTheDocument();
 });
