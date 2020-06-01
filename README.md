@@ -15,23 +15,20 @@ Installed in your local Environment
 In the project directory(packagefy), you can run:
 
 ### `yarn install`
-(Recommend to remove node_module)
+(Recommend to remove node_module if there is one)
 
 ### `yarn start-client`
 
 Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Will open [http://localhost:3000](http://localhost:3000)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-GO for the server directory(/packagefyService)
+Go for the server directory(ROOT_DIR/packagefyService)
 
 ### `npm install`
-(Recommended to remove node_modules)
+(Recommended to remove node_modules if there is one)
 
 ### `yarn start-server`
-Runs the server side and API to search packages
+Runs the server to provide an API to search packages
 
 
 ### `yarn test`
