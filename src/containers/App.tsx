@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import detective from './detective.svg';
-import './App.css';
+import detective from '../assets/detective.svg';
+import '../css/App.css';
 import Search from './Search';
 import Result from './Result'
 import { Typography, Grid, Paper } from '@material-ui/core';
