@@ -6,6 +6,7 @@ First you have to have:
 1- Nodejs
 2- NPM
 3- yarn
+4- Nodemon (npm install -g nodemon)
 Installed.
 
 ## Instalation
