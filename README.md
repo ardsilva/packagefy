@@ -3,11 +3,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Get Started
 
 First you have to have:
-1- Nodejs
-2- NPM
-3- yarn
-4- Nodemon (npm install -g nodemon)
-Installed.
+- Nodejs
+- NPM
+- yarn
+- Nodemon (npm install -g nodemon)
+
+Installed in your local Environment
 
 ## Instalation
 
@@ -38,8 +39,8 @@ Runs the server side and API to search packages
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-###TBD
-- tests with jest
+##TBD
+- more tests with jest
 - apply concurrently (npm install concurrently
 
 # packagefy
